@@ -1,4 +1,6 @@
-description: null
+description: Processor module for ATMEL ATmega8 in DIL28 package. The module contains
+  processor and standard crystal or clock crystal can be used. There is RESET push
+  button and ATMEL ISP 6 PIN connector.
 github_branch: ATmega8DIL01A
 github_repo: ATmega8DIL01
 github_url: https://github.com/mlab-modules/ATmega8DIL01
